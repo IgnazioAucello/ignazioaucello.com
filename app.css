@@ -2819,8 +2819,8 @@ ol ol):not(:where([class~=not-prose] *)) {
 		padding-right: 2rem
 	}
 	.lg\:py-32 {
-		padding-bottom: 8rem;
-		padding-top: 8rem
+		padding-bottom: 3rem;
+		padding-top: 3rem
 	}
 	.lg\:py-0 {
 		padding-bottom: 0;
